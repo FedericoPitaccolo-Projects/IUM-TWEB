@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build e dipendenze
+node_modules/
+target/
+build/
+dist/
+out/
+.dart_tool/
+
+# Sistema
+.DS_Store
+Thumbs.db
